@@ -25,7 +25,6 @@
 			<pre><code>http://api.openweathermap.org/data/2.5/weather?q=CIUDAD&units=metric&appid=APIKey', true</code></pre>
 			<p>En el caso de que quiera preguntar por el tiempo en Tokio, tengo que escribir lo siguiente:</p>
 			<pre><code>http://api.openweathermap.org/data/2.5/weather?q=Tokyo&units=metric&appid=1111111111</code></pre>
-			<!--mi ID es d65f550743f17ab5ce88d4d1d56a3195-->
 			<p>¿Cuál es el origen del dato? Si lo georreferenciamos, es:</p>
 			<div id="mapid" style="width: 400px;  height: 400px; margin-bottom: 20px;"></div>
 			<p>Un par de aclaraciones necesarias:</p>
@@ -48,7 +47,7 @@
 </div>
 <script>
 var request = new XMLHttpRequest();
-request.open('GET', 'http://api.openweathermap.org/data/2.5/weather?q=Tokyo&units=metric&appid=d65f550743f17ab5ce88d4d1d56a3195', true);
+request.open('GET', 'http://api.openweathermap.org/data/2.5/weather?q=Tokyo&units=metric&appid=1111111111', true);
 request.onload = function () {
   var data = JSON.parse(this.response);
   var lat = data.coord.lat;
