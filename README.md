@@ -20,7 +20,7 @@ La revisión de las herramientas para la visualización de datos será más ampl
 - los créditos de este seminario (3 créditos [SCT-CHILE](http://sct-chile.consejoderectores.cl/que_es_sct_chile.php)) condicionan su **tributación al Seminario Diseño Gráfico I** (único seminario con 5 créditos, los demás tenemos 3).
 - los requisitos de este seminario, que no incluyen la aprobación de la asignatura Multimedia I ni II (a cursar en etapa de especialización), **impiden exigir un dominio de herramientas digitales listo para ingresar en etapa avanzada**.
 
-En la revisión de las herramientas no utilizaremos un modelo tradicional de cascada. Lo que sí haremos, inspirados en el enfoque de desarrollo ágil de software, será tratar los temas de modo repetitivo, en ciclos cortos de 3 semanas, para ir creciendo en su comprensión en cada repetición. A cada repetición le llamaremos iteración, y el final de cada iteración tiene su evaluación:
+En la revisión de las herramientas no utilizaremos un modelo tradicional de cascada. Lo que sí haremos, inspirados en el enfoque de [desarrollo ágil de software](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software), será tratar los temas de modo repetitivo, en ciclos cortos de 3 semanas, para ir creciendo en su comprensión en cada repetición. A cada repetición le llamaremos iteración, y el final de cada iteración tiene su evaluación:
 
 **ITERACIÓN 1** → HTML5, CSS3 y JavaScript + JSON y GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
 
