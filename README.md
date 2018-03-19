@@ -23,13 +23,13 @@ La revisión de las herramientas para la visualización de datos será más ampl
 
 En la revisión de las herramientas no utilizaremos un modelo tradicional de cascada. Lo que sí haremos, inspirados en el enfoque de [desarrollo ágil de software](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software), será tratar los temas de modo repetitivo, en ciclos cortos de 3 semanas, para ir creciendo en su comprensión en cada repetición. A cada repetición le llamaremos iteración, y el final de cada iteración tiene su evaluación:
 
-**ITERACIÓN 1** → HTML5, CSS3 y JavaScript + JSON y GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
+**ITERACIÓN 1** → HTML5, CSS3 y JavaScript + JSON y GeoJSON → Clases 1 y [2](https://github.com/profesorfaco/dgp502_2/) → Se cierra y evalúa el viernes 23 de marzo (por feriado del 30).
 
-**ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG y CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
+**ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG y CANVAS + D3.JS → Clases [3](https://github.com/profesorfaco/dgp502_3/), [4](https://github.com/profesorfaco/dgp502_4/) y [5](https://github.com/profesorfaco/dgp502_5/) → Se cierra y evalúa el viernes 20 de abril.
 
-**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
+**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Clases [6](https://github.com/profesorfaco/dgp502_6/), [7](https://github.com/profesorfaco/dgp502_7/) y [8](https://github.com/profesorfaco/dgp502_8/) → Se cierra y evalúa el viernes 11 de mayo.
 
-**ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Se evalúa el viernes 1 de junio. 
+**ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Clases [9](https://github.com/profesorfaco/dgp502_9/), [10](https://github.com/profesorfaco/dgp502_10/) y [11](https://github.com/profesorfaco/dgp502_11/) → Se cierra y evalúa el viernes 1 de junio. 
 
 **De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
 
