@@ -19,3 +19,7 @@ La revisión de las herramientas para la visualización de datos será más ampl
 - el sentido de un seminario (clase en que se reúnen profesor y estudiantes  para realizar **trabajos de investigación**).
 - los créditos de este seminario (3 créditos [SCT-CHILE](http://sct-chile.consejoderectores.cl/que_es_sct_chile.php)) condicionan su **tributación al Seminario Diseño Gráfico I** (único seminario con 5 créditos, los demás tenemos 3).
 - los requisitos de este seminario, que no incluyen la aprobación de la asignatura Multimedia I ni II (a cursar en etapa de especialización), **impiden exigir un dominio de herramientas digitales listo para ingresar en etapa avanzada**.
+
+- - - - - - 
+
+[Siguiente clase →](https://github.com/profesorfaco/dgp502_2)
