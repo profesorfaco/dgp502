@@ -20,6 +20,18 @@ La revisión de las herramientas para la visualización de datos será más ampl
 - los créditos de este seminario (3 créditos [SCT-CHILE](http://sct-chile.consejoderectores.cl/que_es_sct_chile.php)) condicionan su **tributación al Seminario Diseño Gráfico I** (único seminario con 5 créditos, los demás tenemos 3).
 - los requisitos de este seminario, que no incluyen la aprobación de la asignatura Multimedia I ni II (a cursar en etapa de especialización), **impiden exigir un dominio de herramientas digitales listo para ingresar en etapa avanzada**.
 
+En la revisión de las herramientas no utilizaremos un modelo tradicional de cascada. Lo que sí haremos, inspirados en el enfoque de desarrollo ágil de software, será tratar los temas de modo repetitivo, en ciclos cortos de 3 semanas, para ir creciendo en su comprensión en cada repetición. A cada repetición le llamaremos iteración, y el final de cada iteración tiene su evaluación:
+
+**ITERACIÓN 1** → Bootstrap (HTML5, CSS3 y JavaScript) + JSON, GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
+
+**ITERACIÓN 2** → Bootstrap (HTML5, CSS3 y JavaScript) + JSON, GeoJSON + SVG v/s CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
+
+**ITERACIÓN 3** → Bootstrap (HTML5, CSS3 y JavaScript) + SVG v/s CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
+
+**ITERACIÓN 4** → P5.JS + PROCESSING + ARDUINO Y SENSORES + COMMUNICATION SERIAL → Se evalúa el viernes 1 de junio. 
+
+**De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
+
 - - - - - - 
 
-[Siguiente clase →](https://github.com/profesorfaco/dgp502_2)
+[Ir a siguiente clase](https://github.com/profesorfaco/dgp502_2)
