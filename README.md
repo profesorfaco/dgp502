@@ -8,7 +8,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 1 → Viernes
 Con tal objetivo general a la vista, se revisará el uso de las siguientes herramientas: 
 
 - [Bootstrap](https://getbootstrap.com/) ([HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5), [CSS3](https://developer.mozilla.org/es/docs/Web/CSS/CSS3) y [JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics))
-- [JSON](https://www.json.org/json-es.html), [GeoJSON](http://geojson.org/), [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas)
+- [JSON](https://www.json.org/json-es.html) y [GeoJSON](http://geojson.org/)
 - [D3.js](https://d3js.org/)
 - [P5.js](https://p5js.org/)
 - [Processing](https://processing.org/)
