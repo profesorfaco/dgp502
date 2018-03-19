@@ -7,10 +7,10 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 1 → Viernes
 
 Con tal objetivo general a la vista, se revisará el uso de las siguientes herramientas: 
 
-- [Bootstrap](https://getbootstrap.com/) ([HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5), [CSS3](https://developer.mozilla.org/es/docs/Web/CSS/CSS3) y [JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics))
+- [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5), [CSS3](https://developer.mozilla.org/es/docs/Web/CSS/CSS3) y [JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (con [Bootstrap](https://getbootstrap.com/))
 - [JSON](https://www.json.org/json-es.html) y [GeoJSON](http://geojson.org/)
 - [D3.js](https://d3js.org/)
-- [P5.js](https://p5js.org/)
+- [P5.js](https://p5js.org/es/)
 - [Processing](https://processing.org/)
 - [Arduino](https://www.arduino.cc/)
 
@@ -22,11 +22,11 @@ La revisión de las herramientas para la visualización de datos será más ampl
 
 En la revisión de las herramientas no utilizaremos un modelo tradicional de cascada. Lo que sí haremos, inspirados en el enfoque de desarrollo ágil de software, será tratar los temas de modo repetitivo, en ciclos cortos de 3 semanas, para ir creciendo en su comprensión en cada repetición. A cada repetición le llamaremos iteración, y el final de cada iteración tiene su evaluación:
 
-**ITERACIÓN 1** → Bootstrap (HTML5, CSS3 y JavaScript) + JSON, GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
+**ITERACIÓN 1** → HTML5, CSS3 y JavaScript + JSON y GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
 
-**ITERACIÓN 2** → Bootstrap (HTML5, CSS3 y JavaScript) + JSON, GeoJSON + SVG v/s CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
+**ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG v/s CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
 
-**ITERACIÓN 3** → Bootstrap (HTML5, CSS3 y JavaScript) + SVG v/s CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
+**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG v/s CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
 
 **ITERACIÓN 4** → P5.JS + PROCESSING + ARDUINO Y SENSORES + COMMUNICATION SERIAL → Se evalúa el viernes 1 de junio. 
 
@@ -34,4 +34,4 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 - - - - - - 
 
-[Ir a siguiente clase](https://github.com/profesorfaco/dgp502_2)
+[Avanzar a la siguiente clase](https://github.com/profesorfaco/dgp502_2)
