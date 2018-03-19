@@ -25,11 +25,11 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 **ITERACIÓN 1** → HTML5, CSS3 y JavaScript + JSON y GeoJSON → Se evalúa el viernes 23 de marzo (por feriado del 30).
 
-**ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG v/s CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
+**ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG y CANVAS + D3.JS → Se evalúa el viernes 20 de abril.
 
-**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG v/s CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
+**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Se evalúa el viernes 11 de mayo.
 
-**ITERACIÓN 4** → P5.JS + PROCESSING + ARDUINO Y SENSORES + COMMUNICATION SERIAL → Se evalúa el viernes 1 de junio. 
+**ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Se evalúa el viernes 1 de junio. 
 
 **De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
 
