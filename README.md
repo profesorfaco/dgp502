@@ -17,5 +17,5 @@ Con tal objetivo general a la vista, se revisará el uso de las siguientes herra
 La revisión de las herramientas para la visualización de datos será más amplia que profunda. Esto se justifica en lo siguiente:
 
 - el sentido de un seminario (clase en que se reúnen profesor y estudiantes  para realizar **trabajos de investigación**).
-- los créditos de este seminario en (3 créditos [SCT-CHILE](http://sct-chile.consejoderectores.cl/que_es_sct_chile.php)), que condicionan su tributación al Seminario Diseño Gráfico I (5 créditos).
-- los requisitos, que no incluyen la aprobación de la asignatura Multimedia I ni II (a cursar en etapa de especialización), impiden exigir un dominio de herramientas digitales listo para ingresar en etapa avanzada.
+- los créditos de este seminario en (3 créditos [SCT-CHILE](http://sct-chile.consejoderectores.cl/que_es_sct_chile.php)), que condicionan su **tributación al Seminario Diseño Gráfico I** (5 créditos).
+- los requisitos, que no incluyen la aprobación de la asignatura Multimedia I ni II (a cursar en etapa de especialización), **impiden exigir un dominio de herramientas digitales listo para ingresar en etapa avanzada**.
