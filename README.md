@@ -34,6 +34,49 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 **De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
 
+### 40 estudiantes
+
+- https://github.com/camilaaedo/
+- https://github.com/linearaya/
+- https://github.com/LauraAsenjo/
+- https://github.com/tiarekth/
+- https://github.com/SimonBarrera/
+- https://github.com/elfantevolante/
+- https://github.com/valentitina/
+- https://github.com/connycea22/
+- https://github.com/zikofco/
+- https://github.com/AlheliCdeV/
+- https://github.com/conicousins/
+- https://github.com/Domidelaigue/
+- https://github.com/pituebensperger/
+- https://github.com/psycotastic/
+- https://github.com/elyespinoza/
+- https://github.com/ignachu/
+- https://github.com/fawlessvictory/
+- https://github.com/rutikina/
+- https://github.com/marcodesu/
+- https://github.com/camilaibanez/
+- https://github.com/Camilajara95/
+- https://github.com/maripon/
+- https://github.com/PowerPudu/
+- https://github.com/matloy/
+- https://github.com/odrusba6392/
+- https://github.com/monserrat0mella/
+- https://github.com/trinimiranda/
+- https://github.com/valeriamc21/
+- https://github.com/GreciaPizarro2018/
+- https://github.com/mponcec/
+- https://github.com/hereticalmenace/
+- https://github.com/thatpupi/
+- https://github.com/ferivasg/
+- https://github.com/SaraSalazarde2018/
+- https://github.com/samanthasayado/
+- https://github.com/catalina0toloza/
+- https://github.com/bverahablares/
+- https://github.com/disenoissucces/
+- https://github.com/Brianvic96/
+- …
+
 - - - - - - 
 
 [Avanzar a la siguiente clase](https://github.com/profesorfaco/dgp502_2)
