@@ -36,47 +36,47 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 ### 40 estudiantes
 
-- https://github.com/camilaaedo/
-- https://github.com/linearaya/
-- https://github.com/LauraAsenjo/
-- https://github.com/tiarekth/
-- https://github.com/SimonBarrera/
-- https://github.com/elfantevolante/
-- https://github.com/valentitina/
-- https://github.com/connycea22/
-- https://github.com/zikofco/
-- https://github.com/AlheliCdeV/
-- https://github.com/conicousins/
-- https://github.com/Domidelaigue/
-- https://github.com/pituebensperger/
-- https://github.com/psycotastic/
-- https://github.com/elyespinoza/
-- https://github.com/ignachu/
-- https://github.com/fawlessvictory/
-- https://github.com/rutikina/
-- https://github.com/marcodesu/
-- https://github.com/camilaibanez/
-- https://github.com/Camilajara95/
-- https://github.com/maripon/
-- https://github.com/PowerPudu/
-- https://github.com/matloy/
-- https://github.com/odrusba6392/
-- https://github.com/monserrat0mella/
-- https://github.com/trinimiranda/
-- https://github.com/valeriamc21/
-- https://github.com/GreciaPizarro2018/
-- https://github.com/mponcec/
-- https://github.com/hereticalmenace/
-- https://github.com/thatpupi/
-- https://github.com/ferivasg/
-- https://github.com/SaraSalazarde2018/
-- https://github.com/samanthasayado/
-- https://github.com/catalina0toloza/
-- https://github.com/bverahablares/
-- https://github.com/disenoissucces/
-- https://github.com/Brianvic96/
-- …
-
-- - - - - - 
+| Nombre | GitHub |
+|:-------|:-------|
+|	Aedo Barrera, Camila	|	https://github.com/camilaaedo	|
+|	Araya Jofré, Paulina	|	https://github.com/linearaya	|
+|	Asenjo Arellano, Laura	|	https://github.com/LauraAsenjo	|
+|	Barra Durán, Tiare	|	https://github.com/tiarekth	|
+|	Barrera Vera, Simón	|	https://github.com/SimonBarrera	|
+|	Berríos Cáceres, Bárbara	|	https://github.com/elfantevolante	|
+|	Cardoza Astorga, Valentina	|	https://github.com/valentitina	|
+|	Cea Villanueva,	|	https://github.com/connycea22	|
+|	Cerda Julio, Francisco	|	https://github.com/zikofco	|
+|	Cisternas de Vivanco, Alhelí	|	https://github.com/AlheliCdeV	|
+|	Cousins Contreras, Constanza	|	https://github.com/conicousins	|
+|	Delaigue Carrasco, Dominique	|	https://github.com/Domidelaigue	|
+|	Ebensperger Carrasco, Bernardita	|	https://github.com/pituebensperger	|
+|	Encina Rubio, Colomba	|	https://github.com/psycotastic	|
+|	Espinoza Pérez, Elizabeth	|	https://github.com/elyespinoza	|
+|	Fuentes Jorquera, Ignacio	|	https://github.com/ignachu	|
+|	Godoy Salgado, Alexander	|	https://github.com/fawlessvictory	|
+|	Gutierrez Magna, Ruth	|	https://github.com/rutikina	|
+|	Heredia Heredia, Marco	|	https://github.com/marcodesu	|
+|	Ibáñez Cristi, Camila	|	https://github.com/camilaibanez	|
+|	Jara Cuevas, Camila	|	https://github.com/Camilajara95	|
+|	Jarpa Videla, Marisol	|	https://github.com/maripon/	|
+|	Leal Carmona, Bárbara	|	https://github.com/powerpudu	|
+|	Loyola Valencia, Matías	|	https://github.com/matloy	|
+|	Mella Aravena, Diego	|	https://github.com/odrusba6392	|
+|	Mella González, Monserrat	|	https://github.com/monserrat0mella	|
+|	Miranda Schleyer, Trinidad	|	https://github.com/trinimiranda	|
+|	Montenegro Castro, Valeria	|	https://github.com/valeriamc21	|
+|	Pizarro Gutierrez, Grecia	|	https://github.com/GreciaPizarro2018	|
+|	Ponce Caro, Mariela	|	https://github.com/mponcec	|
+|	Pons Emelianov, Pedro	|	https://github.com/hereticalmenace	|
+|	Riquelme Martinez, Jairo	|	https://github.com/thatpupi	|
+|	Rivas Gutierrez, Fernanda	|	https://github.com/ferivasg	|
+|	Salazar Dassori, Sara	|	https://github.com/SaraSalazarde2018	|
+|	Sayado Cifuentes, Samantha	|	https://github.com/samanthasayado	|
+|	Toloza Espinoza, Catalina	|	https://github.com/catalina0toloza	|
+|	Vera Hablares, Brian	|	https://github.com/bverahablares	|
+|	Verdugo Barrios, Xavier	|	https://github.com/disenoissucces	|
+|	Vicuña Riquelme, Brian	|	https://github.com/Brianvic96	|
+|	Viera Viera, Catalina	|	https://github.com/catalinaviera	|
 
 [Avanzar a la siguiente clase](https://github.com/profesorfaco/dgp502_2)
