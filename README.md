@@ -30,9 +30,9 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 **ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Clases [6](https://github.com/profesorfaco/dgp502_6/), [7](https://github.com/profesorfaco/dgp502_7/) y [8](https://github.com/profesorfaco/dgp502_8/) → Se cerraba y evaluaba el viernes 11 de mayo  → Se evaluó, como diagnóstico, el 20 de julio (después de paro y toma)
 
-**ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Clases [9](https://github.com/profesorfaco/dgp502_9/), [10](https://github.com/profesorfaco/dgp502_10/) y [11](https://github.com/profesorfaco/dgp502_11/) → Se cierra y evalúa el viernes 1 de junio. 
+<del>**ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Clases [9](https://github.com/profesorfaco/dgp502_9/), [10](https://github.com/profesorfaco/dgp502_10/) y [11](https://github.com/profesorfaco/dgp502_11/) → Se cierra y evalúa el viernes 1 de junio.</del>
 
-**De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
+<del>**De esta manera, sería posible comenzar con el trabajo individual en visualización de datos el viernes 8 de junio**</del>, dando plazo y base suficientes para que cada estudiante pueda idear, fabricar y validar prototipos de aplicaciones o instalaciones para la visualización de datos.
 
 ### 40 estudiantes
 
