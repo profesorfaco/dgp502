@@ -28,7 +28,7 @@ En la revisión de las herramientas no utilizaremos un modelo tradicional de cas
 
 **ITERACIÓN 2** → HTML5, CSS3 y JavaScript + JSON y GeoJSON + SVG y CANVAS + D3.JS → Clases [3](https://github.com/profesorfaco/dgp502_3/), [4](https://github.com/profesorfaco/dgp502_4/) y [5](https://github.com/profesorfaco/dgp502_5/) → Se cierra y evalúa el viernes 20 de abril.
 
-**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Clases [6](https://github.com/profesorfaco/dgp502_6/), [7](https://github.com/profesorfaco/dgp502_7/) y [8](https://github.com/profesorfaco/dgp502_8/) → Se cierra y evalúa el viernes 11 de mayo.
+**ITERACIÓN 3** → HTML5, CSS3 y JavaScript + SVG y CANVAS + P5.JS → Clases [6](https://github.com/profesorfaco/dgp502_6/), [7](https://github.com/profesorfaco/dgp502_7/) y [8](https://github.com/profesorfaco/dgp502_8/) → Se cerraba y evaluaba el viernes 11 de mayo  → Se evaluó, como diagnóstico, el 20 de julio (después de paro y toma)
 
 **ITERACIÓN 4** → P5.JS + Processing + Arduino y Sensores + Serial Communication → Clases [9](https://github.com/profesorfaco/dgp502_9/), [10](https://github.com/profesorfaco/dgp502_10/) y [11](https://github.com/profesorfaco/dgp502_11/) → Se cierra y evalúa el viernes 1 de junio. 
 
