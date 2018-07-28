@@ -13,8 +13,8 @@ Con tal objetivo general a la vista, se revisará el uso de las siguientes herra
 - [SVG](https://developer.mozilla.org/es/docs/Web/SVG) y [CANVAS](https://developer.mozilla.org/es/docs/Web/Guide/HTML/Canvas_tutorial)
 - [D3.js](https://d3js.org/)
 - [P5.js](https://p5js.org/es/)
-- [Processing](https://processing.org/)
-- [Arduino](https://www.arduino.cc/)
+- <del>[Processing](https://processing.org/)</del>
+- <del>[Arduino](https://www.arduino.cc/)</del>
 
 La revisión de las herramientas para la visualización de datos será más amplia que profunda. Esto se justifica en lo siguiente:
 
